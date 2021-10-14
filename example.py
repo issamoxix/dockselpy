@@ -1,3 +1,4 @@
+#for this example am using the chromdriver
 import os
 from pyvirtualdisplay import Display
 from selenium import webdriver
